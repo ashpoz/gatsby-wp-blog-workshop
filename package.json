@@ -33,7 +33,7 @@
     "gatsby-plugin-react-helmet": "^3.3.14",
     "gatsby-plugin-sharp": "^2.8.0",
     "gatsby-source-wordpress": "^6.1.0",
-    "gatsby-transformer-sharp": "^2.6.0",
+    "gatsby-transformer-sharp": "^2.12.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-helmet": "^5.2.1",
